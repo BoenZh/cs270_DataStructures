@@ -1,0 +1,26 @@
+Pike Place Market	85 Pike Street	food	47.60865	-122.34059
+Gasworks Park	2101 N Northlake Way	park	47.64686	-122.33391
+Experience Music Project	325 5th Avenue N	museum	47.62145	-122.34828
+Space Needle	400 Broad Street	attraction, tourism	47.62051	-122.34928
+Original Starbucks	1912 Pike Place	coffee, original	47.61015	-122.34248
+Seattle Aquarium	1483 Alaskan Way, Pier 59	fun, fish	47.60611	-122.34248
+Pike Place Market	85 Pike Street	shopping, food, market	47.60865	-122.34059
+Seattle Art Museum	1300 1st Avenue	art, museum	47.60723	-122.33781
+Gas Works Park	2101 N Northlake Way	amusement, park	47.64686	-122.33391
+Olympic Sculpture Park	2901 Western Avenue	park, sculpture	47.6169	-122.35645
+Washington State Ferries	Pier 52, 801 Alaskan Way	boats, ferries, water	47.60268	-122.33774
+Museum of History and Industry	860 Terry Ave N	museum, history, industry	47.62768	-122.33674
+Molly Moon's Homemade Ice Cream	2615 NE 46th St	food	47.66179	-122.30341
+Fremont Troll	3405 Troll Ave N	point of interest, art, sculpture	47.65113	-122.347361
+Washington Park Arboretum	2300 Arboretum Dr E	union bay	47.635939	-122.293384
+Woodland Park Zoo	601 N. 59th St.	zoo, food	47.670218	-122.353579
+Century Link Field	800 Occidental Ave. S.	stadium, sports	47.59454	-122.33139
+Seattle Great Wheel	1301 Alaskan Way	amusement attraction	47.606054	-122.341035
+Pacific Science Center	200 2nd Ave. N.	museum, movie_theater	47.619777	-122.352856
+Wild Waves Theme Park	36201 Enchanted Pkwy S, Federal Way	tourist attraction, amusement park	47.27425	-122.31048
+Microsoft Store	2624 NE University Village St.	electronics store	47.66328	-122.30075
+Gameworks	1511 7th Ave	arcade, dining	47.61206	-122.33396
+Umi Sake House	2230 1st Ave	restaurant, sushi	47.60899	-122.3508
+Shiro's Sushi Restaurant	2401 2nd Ave	restaurant, sushi	47.61478	-122.34731
+Japonessa Sushi	1400 1st Ave, Seattle	restaurant, sushi, japanese	47.60802	-122.33905
+Musashi's	1400 N 45th St	restaurant, sushi	47.66161	-122.34047

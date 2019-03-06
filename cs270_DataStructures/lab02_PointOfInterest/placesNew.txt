@@ -1,0 +1,19 @@
+Chambers Bay Golf Course	Chambers Bay | 6320 Grandview Drive West, University Place, Washington 98467	Golf Course	47.1867644	-122.5762378
+Andale Mexican Restaurant	602 112th St S, Tacoma, WA 98444	food	47.15529	-122.439478
+Keuka Lake	Keuka Lake, New York	finger lake, lake, water, waterfront, fishing, boating, kayaking, canoeing, snorkeling	42.4929	77.1428
+Northern Pacific Coffee Co	401 Garfield St S, Tacoma, WA 98444	coffee, sandwiches, local, beer, quirky, music	47.146283	-122.43725
+Chipotle	 4502 S Steele St, Tacoma, WA 98409	Mexican	47.216705	-122.465354
+Subway	11457 Pacific Ave S, Tacoma, WA 98444	Food, Restaurant	47.152341	-122.433729
+Esther Short Park 	415 W 6th St, Vancouver, WA 98660	Park, Historic Square, Public, Market, Concerts, Festivals, Events	45.6267	122.6749
+Jade Pacific	12154 Pacific Avenue South, Tacoma, WA 98444	food, phö, bubble tea, take-out, asian	47.146618	-122.434803
+Gonyea Park	13422 10th Ave S, Tacoma, WA 98444	park, public, baseball, playground	47.134452	-122.44793
+Paradise Bowl Entertainment Center	12505 Pacific Ave S, Tacoma, WA 98444	Bowling, arcade games, nightclub	47.143055	-122.433101
+The Grove, Los Angeles	189 The Grove Drive, Los Angeles CA, 90036	Mall, Farmers Market, Shopping Center, Restaurants, Movie's	34.072473	-118.358046
+Jade Pacific Restaurant	12154 Pacific Ave S Tacoma, WA 98444	restaurant, pho	47.1466211	-122.4371337
+Karen HIlle Phillips Center For The Performing Arts	12180 Park Ave S, Tacoma, WA 98444	performing arts, auditorium, plu, gym	47.146265	-122.441702
+Mary-Baker Russell Building	 868 Wheeler St S, Parkland, WA 98444	music, organ, plu	47.146562	-122.445118
+Garfield Book Company	 208 Garfield St S #101, Tacoma, WA 98444	bookstore, shopping, PLU, school, supplies,	47.146063	-122.435579
+Starbucks	12821 Pacific Ave S, Tacoma, WA 98444	drinks, coffee, tea, coffeeshop	47.140625	-122.433985
+Domino's Pizza	12221 Pacific Ave S, Tacoma, WA 98444	Pizza , food, delicous 	47.144875	-122.433688
+GameStop	1625 E 72nd St, Tacoma, WA, 98404	games, video games, music, toys, collectibles	47.2036	-122.406381
+Northern Pacific Coffee Co.	  401 Garfield St S, Tacoma, WA 98444	coffee, Garfield St, espresso	47.146457	122.437261

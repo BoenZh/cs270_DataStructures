@@ -1,0 +1,15 @@
+3
+HourlyEmp
+123
+John Smith
+15.50
+32
+SalariedEmp
+124
+Edward Snowden
+115000.00
+HourlyEmp
+33
+Mary Laux
+44.75
+53
